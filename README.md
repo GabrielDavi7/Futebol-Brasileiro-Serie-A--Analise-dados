@@ -1,14 +1,20 @@
-# ⚽ Análise de Dados - Brasileirão Série A
+# ⚽ Análise de Dados - Futebol Brasileiro (Brasileirão & Copa do Brasil)
 
 ![Status](https://img.shields.io/badge/Status-Em_Andamento-orange?style=for-the-badge)
 
-Este é um projeto focado em explorar e analisar estatísticas históricas das partidas do Campeonato Brasileiro Série A (2003 - 2024). O objetivo principal é aplicar técnicas de análise de dados para extrair _insights_ sobre o futebol brasileiro, como a vantagem do time mandante, a evolução da média de gols e o impacto do valor de mercado das equipes nos resultados.
+Este projeto tem como objetivo explorar, comparar e analisar estatísticas históricas de duas das principais competições do futebol nacional: o **Campeonato Brasileiro Série A** (pontos corridos) e a **Copa do Brasil** (mata-mata). 
+
+A ideia é aplicar técnicas de análise de dados para extrair *insights* sobre o comportamento das equipes, a evolução das médias de gols, padrões de faltas e cartões, e o impacto financeiro (valor de mercado) nos resultados de ambos os formatos de torneio.
+
+### 📅 Período Analisado
+* **Brasileirão Série A:** Temporadas do ano de 2003 a 2024.
+* **Copa do Brasil:** Temporadas do ano de 2020 a 2024.
 
 ## 📊 Fonte dos Dados
 
-A base de dados utilizada neste projeto traz um detalhamento profundo das partidas e foi baixada através da plataforma **Base dos Dados**. Você pode acessar o dataset original no link abaixo:
-
-- [Mundo Transfermarkt - Competições: Brasileirão Série A](https://basedosdados.org/dataset/c861330e-bca2-474d-9073-bc70744a1b23?table=18835b0d-233e-4857-b454-1fa34a81b4fa)
+Os dados utilizados foram extraídos da plataforma **Base dos Dados**, pertencentes ao conjunto de dados do *Mundo Transfermarkt*. Você pode acessar o repositório original nos links abaixo:
+* [Dataset Principal - Mundo Transfermarkt (Base dos Dados)](https://basedosdados.org/dataset/c861330e-bca2-474d-9073-bc70744a1b23)
+* Tabelas utilizadas: `brasileirao_serie_a` e `copa_brasil`.
 
 ## 🛠️ Tecnologias Utilizadas
 
